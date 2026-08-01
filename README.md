@@ -38,20 +38,19 @@ KAVACH addresses each of these gaps in a working, deployable system.
 ## 📸 Screenshots
 
 ### Dashboard with Live Crime Map
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Criminal Database Search
 ![Criminal Search](screenshots/criminal-search.png)
 
 ### Full Criminal Intelligence Profile
-![Criminal Profile](screenshots/criminal-profile.png)
+![Criminal Profile](screenshots/criminal%20profile.png)
 
 ### Lookout Circular (LOC) Alerts
 ![LOC Circulars](screenshots/loc-circulars.png)
 
 ### KAVACH EYE — Facial Recognition Surveillance
-![KAVACH EYE](screenshots/kavach-eye.png)
-
+![KAVACH EYE](screenshots/kavach%20eye.png)
 ## 🚀 Getting Started
 
 ### Prerequisites
